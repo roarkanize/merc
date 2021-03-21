@@ -1,0 +1,11 @@
+#+title: merc
+
+*WARNING:* this repository is effectively /vaporware/ at this stage, sorry.
+
+*merc* is a (work-in-progess) program to feed information to a *lemonbar*
+instance.
+
+its focus is to balance feature completeness with slimness.
+
+** what's implemented
+   - formatting codes
